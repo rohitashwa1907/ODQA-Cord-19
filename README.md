@@ -5,4 +5,4 @@ The objective of this project is to use the state of the art Natural Language Pr
 
 Anybody can open a copy of this github-hosted notebook within Colab and see the results for themselves
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/rohitashwa1907/ODQA-Cord-19/blob/main/Open_Domain_QA(CORD19).ipynb)
